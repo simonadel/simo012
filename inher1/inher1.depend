@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1630153956 source:c:\users\hp\documents\inher1\main.cpp
+	<iostream>
+	"Derived.h"
+	"Base.h"
+
+1630152372 source:c:\users\hp\documents\inher1\src\base.cpp
+	<iostream>
+	"Base.h"
+
+1630152267 c:\users\hp\documents\inher1\include\base.h
+
+1630153691 c:\users\hp\documents\inher1\include\derived.h
+	"Base.h"
+
+1630153919 source:c:\users\hp\documents\inher1\src\derived.cpp
+	<iostream>
+	"Derived.h"
+
+1630153956 source:c:\users\hp\desktop\inher1\main.cpp
+	<iostream>
+	"Derived.h"
+	"Base.h"
+

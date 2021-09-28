@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629112828 source:c:\users\hp\documents\queue\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1632819720 source:c:\users\hp\downloads\my_cour\simo012\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+

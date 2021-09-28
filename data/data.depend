@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629811254 source:c:\users\hp\documents\data\main.cpp
+	<iostream>
+	"data.h"
+
+1629810095 c:\users\hp\documents\data\include\data.h
+
+1629810940 source:c:\users\hp\documents\data\src\data.cpp
+	"data.h"
+	<iostream>
+
